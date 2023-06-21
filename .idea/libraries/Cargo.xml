@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Cargo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/DefiningClasses/RawData/Cargo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

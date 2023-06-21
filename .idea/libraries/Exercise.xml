@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Exercise">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/DefiningClasses/Exercise/OpinionPoll.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/DefiningClasses/Exercise/CompanyRoster.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/DefiningClasses/Exercise/SpeedRacing.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

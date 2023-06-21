@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="NameComparator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/IteratorsAndComparators/Exercise/StrategyPattern/NameComparator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

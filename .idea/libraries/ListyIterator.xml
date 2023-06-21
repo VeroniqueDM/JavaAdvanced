@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ListyIterator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/IteratorsAndComparators/Exercise/Collection/ListyIterator.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

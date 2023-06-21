@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Sorter">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/Generics/Exercise/CustomList/Sorter.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

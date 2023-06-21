@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Parent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/DefiningClasses/Exercise/Google/Parent.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
